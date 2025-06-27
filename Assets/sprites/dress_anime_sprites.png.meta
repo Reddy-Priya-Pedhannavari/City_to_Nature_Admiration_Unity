@@ -1,0 +1,419 @@
+fileFormatVersion: 2
+guid: 05fc13a12b5c6234c978678a16943d03
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dress_anime_sprites_42
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1715
+        width: 668
+        height: 952
+      alignment: 9
+      pivot: {x: 0.35831332, y: 0.97580045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c6dda6860123342bbee496f7cfacfa
+      internalID: -1729692353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_anime_sprites_44
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 1709
+        width: 701
+        height: 969
+      alignment: 9
+      pivot: {x: 0.35430428, y: 0.97522867}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f19896d30d0de4ba93db53bb314c56
+      internalID: 1767694106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_anime_sprites_45
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1693
+        width: 679
+        height: 969
+      alignment: 9
+      pivot: {x: 0.43931425, y: 0.96216977}
+      border: {x: 0, y: 0, z: 2, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75e915738431074cb2a6faf9a9c3790
+      internalID: -1661496523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_anime_sprites_63
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 1720
+        width: 744
+        height: 994
+      alignment: 9
+      pivot: {x: 0.3585858, y: 0.9694316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b36bf7b3e9159489a20e4ec229df5f
+      internalID: -1065491988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_anime_sprites_98
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 341
+        width: 732
+        height: 995
+      alignment: 9
+      pivot: {x: 0.3799213, y: 0.97467625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9720069ef35e0e840aff6cd2b4e32ec8
+      internalID: -1317248127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_anime_sprites_99
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 337
+        width: 705
+        height: 991
+      alignment: 9
+      pivot: {x: 0.34224376, y: 0.97444236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46abb7637880324d9c651be243cf617
+      internalID: 1180686882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_anime_sprites_101
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 350
+        width: 686
+        height: 978
+      alignment: 9
+      pivot: {x: 0.35197088, y: 0.97401136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a1bcc22e5159c40989930c7b028b13
+      internalID: -1006323044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_anime_sprites_103
+      rect:
+        serializedVersion: 2
+        x: 2291
+        y: 388
+        width: 638
+        height: 965
+      alignment: 9
+      pivot: {x: 0.37165666, y: 0.9790474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc6cf87cc248b9469fbfa96e5404146
+      internalID: 126022530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      dress_anime_sprites_15: 657261870
+      dress_anime_sprites_1: 1985914117
+      dress_anime_sprites_95: -1532669982
+      dress_anime_sprites_72: 1873908002
+      dress_anime_sprites_52: 1085867966
+      dress_anime_sprites_3: 1323006727
+      dress_anime_sprites_32: 939238446
+      dress_anime_sprites_26: 655212196
+      dress_anime_sprites_80: -1339951781
+      dress_anime_sprites_65: -1132525277
+      dress_anime_sprites_85: -1123074739
+      dress_anime_sprites_48: 1620517694
+      dress_anime_sprites_96: -347394184
+      dress_anime_sprites_89: -1452240259
+      dress_anime_sprites_109: -213258414
+      dress_anime_sprites_90: -1223272588
+      dress_anime_sprites_27: 488926550
+      dress_anime_sprites_70: 902587870
+      dress_anime_sprites_59: 2070961105
+      dress_anime_sprites_108: -1514921276
+      dress_anime_sprites_36: -1781107017
+      dress_anime_sprites_47: 238579361
+      dress_anime_sprites_7: -418571855
+      dress_anime_sprites_66: 1382782186
+      dress_anime_sprites_49: 398191454
+      dress_anime_sprites_30: -876145482
+      dress_anime_sprites_105: -308438613
+      dress_anime_sprites_23: -181596715
+      dress_anime_sprites_112: 1178913636
+      dress_anime_sprites_93: -937921991
+      dress_anime_sprites_92: 267405686
+      dress_anime_sprites_50: 1541931585
+      dress_anime_sprites_73: -1693529196
+      dress_anime_sprites_57: -1707291670
+      dress_anime_sprites_75: -2071691728
+      dress_anime_sprites_55: 1431240011
+      dress_anime_sprites_60: 532634461
+      dress_anime_sprites_68: -203429664
+      dress_anime_sprites_2: -1447764331
+      dress_anime_sprites_71: 1009757413
+      dress_anime_sprites_77: -1581059834
+      dress_anime_sprites_104: 1052765561
+      dress_anime_sprites_98: -1317248127
+      dress_anime_sprites_79: -1824480621
+      dress_anime_sprites_16: -1816420923
+      dress_anime_sprites_39: -1709166343
+      dress_anime_sprites_24: 357096285
+      dress_anime_sprites_64: -608332130
+      dress_anime_sprites_51: 1578186791
+      dress_anime_sprites_53: 2003364010
+      dress_anime_sprites_44: 1767694106
+      dress_anime_sprites_88: 426696042
+      dress_anime_sprites_54: 1078571596
+      dress_anime_sprites_41: 1933804884
+      dress_anime_sprites_56: -456902102
+      dress_anime_sprites_67: 4031849
+      dress_anime_sprites_111: -1527858398
+      dress_anime_sprites_100: 1734248652
+      dress_anime_sprites_86: 437618872
+      dress_anime_sprites_25: -958578795
+      dress_anime_sprites_63: -1065491988
+      dress_anime_sprites_76: -122972146
+      dress_anime_sprites_35: -1076891652
+      dress_anime_sprites_43: -811111432
+      dress_anime_sprites_10: 785881268
+      dress_anime_sprites_4: 1091405616
+      dress_anime_sprites_91: -952317055
+      dress_anime_sprites_87: -944324085
+      dress_anime_sprites_83: -413446646
+      dress_anime_sprites_28: 647522753
+      dress_anime_sprites_22: -1354193259
+      dress_anime_sprites_34: 1861823024
+      dress_anime_sprites_99: 1180686882
+      dress_anime_sprites_37: 1303536977
+      dress_anime_sprites_61: -389643292
+      dress_anime_sprites_13: 460253786
+      dress_anime_sprites_94: 1156176656
+      dress_anime_sprites_101: -1006323044
+      dress_anime_sprites_103: 126022530
+      dress_anime_sprites_113: 1792378722
+      dress_anime_sprites_102: -561236327
+      dress_anime_sprites_31: 719441225
+      dress_anime_sprites_38: 1121885678
+      dress_anime_sprites_20: 1503653341
+      dress_anime_sprites_78: -529649814
+      dress_anime_sprites_74: -103427991
+      dress_anime_sprites_11: -1185393245
+      dress_anime_sprites_21: -2021730884
+      dress_anime_sprites_45: -1661496523
+      dress_anime_sprites_69: -381791400
+      dress_anime_sprites_107: 1979765008
+      dress_anime_sprites_81: 813590325
+      dress_anime_sprites_97: 1242918420
+      dress_anime_sprites_17: -1265459650
+      dress_anime_sprites_42: -1729692353
+      dress_anime_sprites_46: -2124210520
+      dress_anime_sprites_5: 2030357817
+      dress_anime_sprites_6: -1252234378
+      dress_anime_sprites_9: 2120191148
+      dress_anime_sprites_106: -708745004
+      dress_anime_sprites_58: -973184334
+      dress_anime_sprites_84: -156492476
+      dress_anime_sprites_29: 814819727
+      dress_anime_sprites_62: 1815812781
+      dress_anime_sprites_8: 1712408652
+      dress_anime_sprites_40: 241386329
+      dress_anime_sprites_19: 285820075
+      dress_anime_sprites_14: -153703601
+      dress_anime_sprites_18: -1738551344
+      dress_anime_sprites_33: 850376557
+      dress_anime_sprites_114: -1581188008
+      dress_anime_sprites_110: 1338558014
+      dress_anime_sprites_82: -1373557542
+      dress_anime_sprites_12: 1137337090
+      dress_anime_sprites_0: -1064777532
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
