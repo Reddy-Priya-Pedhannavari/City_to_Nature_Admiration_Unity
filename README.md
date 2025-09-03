@@ -56,6 +56,7 @@ Assets/
 ├── Prefabs/          # Reusable game objects
 ├── Animations/       # Character and environment animations
 ├── Videos/           # Video shorts 
+├── Images/           # Spries Images 
 ```
 
 ---
