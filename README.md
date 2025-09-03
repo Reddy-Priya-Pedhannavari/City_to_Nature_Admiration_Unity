@@ -48,6 +48,8 @@ This project explores the contrast between city environments and natural landsca
 ---
 
 ## Project Structure
+
+```
 Assets/
 ├── Scenes/           # Unity scenes
 ├── Scripts/          # Game logic
@@ -55,6 +57,7 @@ Assets/
 ├── Animations/       # Character and environment animations
 ├── UI/               # User interface elements
 ├── Images/           # Screenshots and visual assets
+```
 
 ---
 
