@@ -49,12 +49,12 @@ This project explores the contrast between city environments and natural landsca
 
 ## Project Structure
 Assets/
-  ├── Scenes/           # Unity scenes
-  ├── Scripts/          # Game logic
-  ├── Prefabs/          # Reusable game objects
-  ├── Animations/       # Character and environment animations
-  ├── UI/               # User interface elements
-  ├── Images/           # Screenshots and visual assets
+├── Scenes/           # Unity scenes
+├── Scripts/          # Game logic
+├── Prefabs/          # Reusable game objects
+├── Animations/       # Character and environment animations
+├── UI/               # User interface elements
+├── Images/           # Screenshots and visual assets
 
 ---
 
