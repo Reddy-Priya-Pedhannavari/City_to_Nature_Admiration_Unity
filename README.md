@@ -33,8 +33,11 @@ This project explores the contrast between city environments and natural landsca
 
  **Screenshots**
 
+<img src="Images/Video_City_to_Nature -1.jpg" alt="Screenshot 1" width="200" height="auto"/> <img src="Images/Video_City_to_Nature -2.jpg" alt="Screenshot 1" width="200" height="auto"/>
+<img src="Images/Video_City_to_Nature -3.jpg" alt="Screenshot 1" width="200" height="auto"/> <img src="Images/Video_City_to_Nature -4.jpg" alt="Screenshot 1" width="200" height="auto"/>
 
  **Videos**
+ https://github.com/Reddy-Priya-Pedhannavari/City_to_Nature_Admiration_Unity/blob/main/Videos/Video_City_to_Nature.mp4
 
 ---
 
