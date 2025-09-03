@@ -2,14 +2,14 @@
 
 ## Overview
 
-**City to Nature Admiration** is a 3D Unity experience that transitions players from the hustle of urban life to the serenity of nature. Developed using Unity and C#, this immersive journey encourages reflection and appreciation for the natural world through interactive storytelling and visual transformation.
+**City to Nature Admiration** is a 3D Unity Animation experience that transitions players from the hustle of urban life to the serenity of nature. Developed using Unity and C#, this immersive journey encourages reflection and appreciation for the natural world through interactive storytelling and visual transformation.
 
 ## Table of Contents
 
 - [About](#about)
 - [Features](#features)
 - [Screenshots](#screenshots)
-- [Gameplay](#gameplay)
+- [AnimationPlay](#Animationplay)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Assets & Credits](#assets--credits)
@@ -19,7 +19,7 @@
 
 ## About
 
-This project explores the contrast between city environments and natural landscapes. Players begin in a bustling urban setting and gradually move toward tranquil nature scenes, experiencing visual and emotional shifts along the way. The game emphasizes environmental awareness and mindfulness.
+This project explores the contrast between city environments and natural landscapes. Players begin in a bustling urban setting and gradually move toward tranquil nature scenes, experiencing visual and emotional shifts along the way. The Animation emphasizes environmental awareness and mindfulness.
 
 ## Features
 
@@ -31,14 +31,14 @@ This project explores the contrast between city environments and natural landsca
 
 ## Screenshots
 
-> _Add your screenshots here using Markdown image links like below:_
+ **Screenshots**
 
-```markdown
-![City Scene](Images/CityScene.png)
-![Nature Scene](Images/NatureScene.png)
-```
+
+ **Videos**
+
 ---
-## Gameplay
+
+## AnimationPlay
   * **1. Start the Experience:** Launch the game and begin in the city environment.
   * **2. Explore:** Use keyboard controls to move through the space.
   * **3. Interact:** Trigger transitions by reaching key locations or interacting with objects.
@@ -52,11 +52,10 @@ This project explores the contrast between city environments and natural landsca
 ```
 Assets/
 ├── Scenes/           # Unity scenes
-├── Scripts/          # Game logic
+├── Scripts/          # Animation Logics
 ├── Prefabs/          # Reusable game objects
 ├── Animations/       # Character and environment animations
-├── UI/               # User interface elements
-├── Images/           # Screenshots and visual assets
+├── Videos/           # Video shorts 
 ```
 
 ---
